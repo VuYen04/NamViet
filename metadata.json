@@ -1,0 +1,6 @@
+{
+  "name": "Namviet Logistics",
+  "description": "Namviet Logistics provides integrated sea, road, rail and air freight solutions designed to help businesses move goods efficiently, reliably and globally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
